@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 🧠 Passionate about building real-world solutions using **Python**, **MySQL**, and **Web Technologies**.
 
-- 💻 Currently learning **FastAPI**, **PyTorch**, **RAG**, and **Snowflake**.
+- 💻 Currently learning **Go**, **RAG**, and **Snowflake**.
 
 - 🔍 Curious about **AI**, **System Design**, and **Cloud Infrastructure**.
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 - 🎯 Actively improving in **Competitive Programming** [CodeChef, LeetCode, HackerRank].
 
-- 🛠️ Working on hands-on projects using **Flask**, **Streamlit**, and **Databases**.
+- ♟️ When I’m not coding, you’ll probably find me deep in a game of chess.
 
 - 🧑‍🎨 I enjoy crafting clean UIs, intuitive workflows, and impactful software.
 
@@ -52,3 +52,18 @@ Here are some ideas to get you started:
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,bootstrap,git,github,mysql,matlab,regex&perline=15)](https://skillicons.dev)
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">🤝 Connect With Me</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p>
+<a href="https://www.linkedin.com/in/tharun0106/" target="blank"><img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/tharun_.0106/" target="blank"><img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+
+</p>
