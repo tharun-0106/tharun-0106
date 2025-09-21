@@ -31,19 +31,19 @@ Here are some ideas to get you started:
 
 - 🎓 2nd Year B.Tech Computer Science & Engineering student at **Amrita Vishwa Vidyapeetham**.
 
-- 🧠 Passionate about building real-world solutions using **Python**, **MySQL**, and **Web Technologies**.
-
-- 💻 Currently learning **Go**, **RAG**, and **Snowflake**.
+- 🧠 Passionate about building real-world solutions.
 
 - 🔍 Curious about **AI**, **System Design**, and **Cloud Infrastructure**.
 
-- 📚 Exploring topics like **Retrieval-Augmented Generation**, **Remote Shells**, and **ML Ops**.
+- 📚 Exploring topics like **Web Development**, **Remote Shells**, and **ML Ops**.
 
 - 🎯 Actively improving in **Competitive Programming** [CodeChef, LeetCode, HackerRank].
 
-- ♟️ When I’m not coding, you’ll probably find me deep in a game of chess.
-
 - 🧑‍🎨 I enjoy crafting clean UIs, intuitive workflows, and impactful software.
+
+- ♟️ When I’m not coding, you’ll probably find me deep in a game of **Chess**.
+
+
 
 <br>
 
